@@ -1,6 +1,11 @@
 .App {
-  text-align: center;
-  color: red
+  text-align: left;
+   background-color: red;
+   color:red;
+}
+
+.text {
+	font-size: 100px;
 }
 
 .center {

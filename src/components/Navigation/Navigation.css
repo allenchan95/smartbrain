@@ -1,0 +1,16 @@
+nav {
+
+  display: flex;
+  justify-content: space-between;
+ 
+}
+ul {
+	display: inline-block;
+	list-style: none;
+}
+li{
+	display: inline-block;
+	
+}
+
+
